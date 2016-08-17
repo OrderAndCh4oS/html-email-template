@@ -1,0 +1,15 @@
+{
+  "name": "Email-Templates",
+  "description": "three&me email template using zurb ink, sass and grunt",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": "https://bitbucket.org/threeandme/email-template",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-email-builder": "^3.0.1",
+    "grunt-mailgun": "^0.2.1",
+    "matchdep": "^0.3.0"
+  }
+}
